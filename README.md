@@ -1,6 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz .NET Core Eğitimi kapsamında açtığım ilk repo.
-![github](figures/github.png)
+
+![image](https://user-images.githubusercontent.com/40460643/207666574-b49d6844-d8ba-4a95-a23a-d7e306e82866.png)
+
 
 ## Installation
 
